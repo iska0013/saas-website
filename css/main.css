@@ -8,8 +8,8 @@ html {
 }
 
 .masthead {
-  background-color: #522806;
-  border-bottom: .3rem solid #bea59b;
+  background-color: #1C2636;
+  border-bottom: .3rem solid #302613;
   color: #fff;
 }
 
@@ -33,7 +33,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #bea59b;
+  border-bottom: .3rem solid #B21502;
 }
 
 .nav a:hover span,
