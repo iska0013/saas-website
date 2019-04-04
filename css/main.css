@@ -9,7 +9,6 @@ html {
 
 .masthead {
   background-color: #1C2636;
-  border-bottom: .3rem solid #302613;
   color: #fff;
 }
 
@@ -43,43 +42,43 @@ html {
 
 .banner {
   min-height: 16em;
-  color: #B21502;
+  color: #fff;
   background-color: inherit;
 }
 
 .card {
   min-height: 22em;
-  border: .3rem solid #bea59b;
+  border: .3rem solid #1C2636;
   border-radius: 4px;
 }
 
 .btn-light {
-  background-color: #bea59b;
-  border-color: #bea59b;
-  color: #000;
+  background-color: #1C2636;
+  border-color: #1C2636;
+  color: #fff;
 }
 
 .btn-light:hover,
 .btn-light:focus {
-  background-color: #522806;
+  background-color: #B12423;
   border-color: #522806;
 }
 
 .btn-banner {
-  border-color: #bea59b;
+  border-color: #B12423;
   color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-  background-color: #bea59b;
+  background-color: #B12423;
   border-color: #fff;
-  color: #522806;
+  color: #fff;
 }
 
 .footer {
-  background-color: #522806;
-  border-top: .3rem solid #bea59b;
+  background-color: #1C2636;
+  border-top: .3rem solid #B12423;
   color: #fff;
 }
 
