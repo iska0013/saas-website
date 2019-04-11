@@ -15,9 +15,7 @@ html {
 .logo {
   text-align: center;
 }
-#logo {
-  fill: #fff;
-}
+
 
 .logo-text {
   display: inline-block;
@@ -28,10 +26,16 @@ html {
   text-align: center;
 }
 
-.nav a {
+.nav a,
+header a {
   color: #fff;
   text-decoration: none;
   outline-color: inherit;
+}
+
+header a h1 {
+  text-align: center;
+  display: block;
 }
 
 .nav a:hover span,
