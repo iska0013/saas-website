@@ -96,7 +96,7 @@ header a h1 {
 
   .banner,
   .card {
-    min-height: 2;
+    min-height: 20;
   }
 
 }
