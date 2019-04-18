@@ -56,29 +56,50 @@ header a h1 {
 }
 /*
 .btn-light {
-  background-color: #1C2636;
-  border-color: #1C2636;
-  color: #fff;
+background-color: #1C2636;
+border-color: #1C2636;
+color: #fff;
 }
 
 .btn-light:hover,
 .btn-light:focus {
-  background-color: #B12423;
-  border-color: #522806;
+background-color: #B12423;
+border-color: #522806;
 }
 
 .btn-banner {
-  border-color: #B12423;
-  color: #fff;
+border-color: #B12423;
+color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-  background-color: #B12423;
-  border-color: #fff;
-  color: #fff; */
+background-color: #B12423;
+border-color: #fff;
+color: #fff; */
 
 
+
+td {
+  border-bottom: 0;
+  text-align: left;
+  vertical-align: top;
+  height: 8em;
+}
+
+th {
+  text-align:
+}
+
+.text-center {
+
+  text-align: center;
+}
+
+.bottom-space {
+
+  padding-bottom: 15px
+}
 
 
 
@@ -114,31 +135,4 @@ header a h1 {
   }
 
 
-}
-
-
-
-td {
-  border-bottom: 0;
-  text-align: left;
-  vertical-align: top;
-  height: 8em;
-}
-
-th {
-  text-align:
-}
-
-.text-center {
-
-  text-align: center;
-}
-
-.bottom-space {
-
-  padding-bottom: 15px
-}
-
-.uppercase{
-  text: uppercase;
 }
