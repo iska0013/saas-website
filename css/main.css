@@ -76,7 +76,13 @@ color: #fff;
 .btn-banner:focus {
 background-color: #B12423;
 border-color: #fff;
-color: #fff; */
+color: #fff;
+}
+
+nav a:hover,
+nav a:focus {
+  background-color: #B12423;
+}
 
 td {
 
