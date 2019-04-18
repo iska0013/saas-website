@@ -54,7 +54,7 @@ header a h1 {
   border: .3rem solid #1C2636;
   border-radius: 4px;
 }
-
+/*
 .btn-light {
   background-color: #1C2636;
   border-color: #1C2636;
@@ -76,8 +76,11 @@ header a h1 {
 .btn-banner:focus {
   background-color: #B12423;
   border-color: #fff;
-  color: #fff;
-}
+  color: #fff; */
+
+
+
+
 
 .footer {
   background-color: #1C2636;
@@ -96,7 +99,7 @@ header a h1 {
 
   .banner,
   .card {
-    min-height: 20;
+    min-height: 20em;
   }
 
 }
