@@ -8,14 +8,13 @@ html {
 }
 
 .masthead {
-  background-color: #1C2636;
+  background-color: #1c2636;
   color: #fff;
 }
 
 .logo {
   text-align: center;
 }
-
 
 .logo-text {
   display: inline-block;
@@ -51,9 +50,10 @@ header a h1 {
 
 .card {
   min-height: 22em;
-  border: .3rem solid #1C2636;
+  border: .3rem solid #1c2636;
   border-radius: 4px;
 }
+
 /*
 .btn-light {
 background-color: #1C2636;
@@ -78,9 +78,8 @@ background-color: #B12423;
 border-color: #fff;
 color: #fff; */
 
-
-
 td {
+
   border-bottom: 0;
   text-align: left;
   vertical-align: top;
@@ -98,13 +97,11 @@ th {
 
 .bottom-space {
 
-  padding-bottom: 15px
+  padding-bottom: 15px;
 }
 
-
-
 .footer {
-  background-color: #1C2636;
+  background-color: #1c2636;
   color: #fff;
 }
 
@@ -133,6 +130,5 @@ th {
     max-width: 90em;
     width: 100%;
   }
-
 
 }
