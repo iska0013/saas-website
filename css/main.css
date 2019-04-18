@@ -3,42 +3,50 @@
 }
 
 html {
+
   background-color: #fff;
   font-family: "Libre Baskerville", serif;
 }
 
 .masthead {
+
   background-color: #1c2636;
   color: #fff;
 }
 
 .logo {
+
   text-align: center;
 }
 
 .logo-text {
+
   display: inline-block;
   width: 9em;
 }
 
 .nav {
+
   text-align: center;
 }
 
 .nav a,
 header a {
+
   color: #fff;
   text-decoration: none;
   outline-color: inherit;
 }
 
 header a h1 {
+
   text-align: center;
   display: block;
 }
 
 .nav a:hover span,
 .nav a:focus span {
+
   border-bottom-color: #fff;
 }
 
@@ -56,32 +64,37 @@ header a h1 {
 
 
 .btn-light {
-background-color: #1c2636;
-border-color: #1c2636;
-color: #fff;
+
+  background-color: #1c2636;
+  border-color: #1c2636;
+  color: #fff;
 }
 
 .btn-light:hover,
 .btn-light:focus {
-background-color: #B12423;
-border-color: #522806;
+
+  background-color: #b12423;
+  border-color: #522806;
 }
 
 .btn-banner {
-border-color: #B12423;
-color: #fff;
+
+  border-color: #b12423;
+  color: #fff;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-background-color: #B12423;
-border-color: #fff;
-color: #fff;
+
+  background-color: #b12423;
+  border-color: #fff;
+  color: #fff;
 }
 
 nav a:hover,
 nav a:focus {
-  background-color: #B12423;
+
+  background-color: #b12423;
 }
 
 td {
